@@ -1,4 +1,4 @@
-pragma solidity ^0.4.2;
+pragma solidity ^0.4.17;
 
 /**
  * The GiftRegistry contract is designed to store funds put up by a "giver" to
